@@ -1,2 +1,4 @@
 /.c9/
 /accounts/__pycache__/
+/django_auth/__pycache__/
+*.pyc
